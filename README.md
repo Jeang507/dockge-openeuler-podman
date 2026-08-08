@@ -14,7 +14,7 @@ Esta guía utiliza los paquetes disponibles en openEuler y adapta la configuraci
 - Python 3
 - podman-compose
 
-Dockge requiere Docker 20+ o Podman, podman-docker. Para instalaciones con Podman.
+Dockge requiere Docker 20+ o Podman. Si se utiliza Podman, también es necesario instalar podman-docker.
 
 **Referencia:**  
 https://github.com/louislam/dockge
