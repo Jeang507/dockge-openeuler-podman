@@ -1,5 +1,7 @@
 # Dockge en openEuler con Podman
 
+![Dockge ejecutándose en openEuler con Podman](images/dockge-dashboard.png)
+
 Ejecutar Dockge en openEuler 24.03 LTS-SP4 utilizando Podman.
 
 Esta guía utiliza los paquetes disponibles en openEuler y adapta la configuración oficial de Dockge para trabajar con Podman.
